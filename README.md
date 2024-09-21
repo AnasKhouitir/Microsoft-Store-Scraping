@@ -1,5 +1,5 @@
 Project: Microsoft Store Scraper and Data Analysis
-Overview:
+
 This project involves web scraping the Microsoft Store to gather detailed information about applications, including categories, ratings, reviews, and prices. The scraped data is then processed and analyzed using various Python libraries to gain insights into app trends, customer feedback, and pricing structures.
 
 Features:
